@@ -1,4 +1,4 @@
-package test.video12;
+package test.Cars;
 
 public class Main {
     public static void main (String[] args){

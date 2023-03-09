@@ -1,4 +1,4 @@
-package test.video12;
+package test.Cars;
 
 public class Truck extends All_Transport{
     private boolean isLoaded;
